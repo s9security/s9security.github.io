@@ -16,7 +16,7 @@ minimal_mistakes_skin    : "neon" # "air", "aqua", "contrast", "dark", "dirt", "
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Section9 Security"
+title                    : "Section9 Security Blog"
 title_separator          : "-"
 subtitle                 : "Expert Application Security Assessments"
 name                     : "Section9 Security"
@@ -94,10 +94,10 @@ analytics:
 
 # Site Author
 author:
-  name             : "0xroot"
+  name             : "S9S"
   avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
   bio              : ""
-  location         : "Somewhere"
+  location         : "Internet"
   email            : "hello@s9security.com"
   links:
     - label: "Email"
